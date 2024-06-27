@@ -1,0 +1,28 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    background-color: black;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 24px;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+.cabecalho-item {
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+

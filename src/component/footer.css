@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    height: 60px;
+    padding-top: 10px;
+}
